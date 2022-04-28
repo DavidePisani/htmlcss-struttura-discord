@@ -93,3 +93,80 @@ li {
 }
 
 /* FINE JUMBOTRON + HEADER  */
+
+/* INIZIO MAIN */
+
+.main-cont{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.grey{
+    background-color: #d3d3d3;
+}
+
+.black{
+    background-color: #23272a;
+}
+
+.cont-blue{
+    border: 3px Dashed black;
+    display: flex;
+    background-color: #1e90ff;
+    width: 40%;
+    height: 350px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.cont-pink{
+    border: 3px Dashed black;
+    display: flex;
+    background-color: #ffc0cb;
+    width: 30%;
+    height: 350px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.cont-green{
+    border: 3px Dashed black;
+    display: flex;
+    background-color: #228b22;
+    width: 50%;
+    height: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.cont-rose{
+    display: flex;
+    border: 3px Dashed black;
+    background-color: #f08080;
+    width: 20%;
+    height: 500px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.inter-cont{
+    display: flex;
+    border: 4px Dashed black;
+    width: 60%;
+    height: 500px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+
+}
+
+.cont-lightblue{
+    display: flex;
+    border: 3px Dashed white;
+    background-color: #20b2aa;
+    width: 30%;
+    height: 500px;
+    margin-bottom: 20px;
+
+}
